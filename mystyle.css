@@ -28,6 +28,7 @@ body {
                   opacity: 1;
         }
 
+
         .whole_table{
         	background-color: rgb(235,250,100);
 
@@ -37,7 +38,11 @@ body {
         	background-color: rgb(250,115,100);
         }
 
-        .percent{
+        .academicimg{
+        	width:50%;
+        }
+
+        .percent{text-align: right;
         }
 
         h1{
@@ -48,6 +53,6 @@ body {
         }
 
         .githubimg{
-        	width: 30px;
+        	width: 40px;
         }
 
