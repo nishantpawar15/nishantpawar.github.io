@@ -1,6 +1,6 @@
 body {
             font-family:"Helvetica", sans-serif;
-            background-color: rgb(0,200,200);
+            background-color: rgb(246,172,59);
  
         }
 
@@ -29,12 +29,12 @@ body {
         }
 
         .whole_table{
-        	background-color: rgb(200,200,0);
+        	background-color: rgb(246,219,51);
 
               }
 
         .table_topic{
-        	background-color: rgb(200,0,0);
+        	background-color: rgb(150,25,246);
         }
 
         .percent{
