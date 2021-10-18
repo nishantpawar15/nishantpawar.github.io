@@ -1,12 +1,12 @@
 body {
             font-family:"Helvetica", sans-serif;
-            background-color: rgb(246,172,59);
+            background-color: rgb(250,190,100);
  
         }
 
         .topic {
         	text-align: center;
-        	background-color:blue;
+        	background-color: rgb(250,115,100);
         }
 
         .personal_info {
@@ -29,12 +29,12 @@ body {
         }
 
         .whole_table{
-        	background-color: rgb(246,219,51);
+        	background-color: rgb(235,250,100);
 
               }
 
         .table_topic{
-        	background-color: rgb(150,25,246);
+        	background-color: rgb(250,115,100);
         }
 
         .percent{
