@@ -39,11 +39,15 @@ body {
 
         .percent{
         }
+
         h1{
         	text-decoration: underline;
         }
         .github{text-align: right;
-        	width: 30;
+        	
+        }
 
+        .githubimg{
+        	width: 30;
         }
 
