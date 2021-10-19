@@ -44,11 +44,17 @@ body {
         .academicimg{
         	margin-right: auto;
         	width: 10%;
+        	border: 5px solid #555;
         }
+
+        
         .thesisimg1{
         	margin-right: auto;
-        	width: 10%;
+        	width: 20%;
+            border: 5px solid #555;
+              object-fit:cover;
         }
+      
 
         .percent{text-align: right;
         }
