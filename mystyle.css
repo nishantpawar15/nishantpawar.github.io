@@ -44,14 +44,14 @@ body {
         .academicimg{
         	margin-right: auto;
         	width: 10%;
-        	border: 5px solid #555;
+        	border: 20px; background-color: rgb(250,190,100);
         }
 
         
         .thesisimg1{
         	margin-right: auto;
         	width: 20%;
-            border: 5px solid #555;
+            border: 5px;
               object-fit:cover;
         }
       
