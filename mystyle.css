@@ -73,13 +73,13 @@ body {
 
         .sitemodelimg{
         	margin-right: auto;
-        	width: 20%;
+        	width: 40%;
         	border: 20px; border-color: rgb(250,190,100);
         }
 
         .siteimg{
         	margin-right: auto;
-        	width: 20%;
+        	width: 100%;
         	border: 20px; border-color: rgb(250,190,100);
         }
 
