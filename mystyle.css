@@ -38,10 +38,16 @@ body {
         	background-color: rgb(250,115,100);
         }
 
+        .academicpara{
+        	text-align: right;	
+        }
         .academicimg{
-        	text-align: center;
-        	width: 50%;
-        	height: 50%;	
+        	margin-right: auto;
+        	width: 30%;
+        }
+        .thesisimg1{
+        	margin-right: auto;
+        	width: 30%;
         }
 
         .percent{text-align: right;
