@@ -71,3 +71,14 @@ body {
         	width: 40px;
         }
 
+        .sitemodelimg{
+        	margin-right: auto;
+        	width: 20%;
+        	border: 20px; border-color: rgb(250,190,100);
+        }
+
+        .siteimg{
+        	margin-right: auto;
+        	width: 20%;
+        	border: 20px; border-color: rgb(250,190,100);
+        }
