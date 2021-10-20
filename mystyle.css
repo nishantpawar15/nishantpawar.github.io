@@ -95,3 +95,9 @@ body {
         	height: 100%;
         	border-spacing:20px;
         }
+
+        .surveyimg{
+        	margin-right: auto;
+        	width: 200%;
+        	border: 20px;
+        }
